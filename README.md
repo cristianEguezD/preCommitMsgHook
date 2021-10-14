@@ -6,7 +6,9 @@ Se ejecuta el install para crear una carpetita que guarda el hook. Despues en lo
 
 Ejemplo: 
 
-`git checkout -b FEXC-1234/CambioX`
-`git commit -m "holis"`
+```
+git checkout -b FEXC-1234/CambioX
+git commit -m "holis"
+```
 
 Mensaje final: `[FEXC-1234] holis`
